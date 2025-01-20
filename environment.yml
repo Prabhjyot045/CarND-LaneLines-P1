@@ -1,0 +1,11 @@
+name: ece495-a1
+channels:
+- conda-forge
+- anaconda
+dependencies:
+- python==3.10
+- opencv
+- moviepy
+- matplotlib
+- jupyter
+- scikit-learn
